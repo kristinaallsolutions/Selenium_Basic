@@ -40,7 +40,7 @@ public class AgeSamplePage extends GenericSamplePage {
     }
 
     public void enterNameAgeAndClickSubmit() {
-        enterName("admib");
+        enterName("admin");
         enterAge("pass");
         submitButton.click();
     }
